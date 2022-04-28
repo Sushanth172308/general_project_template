@@ -1,1 +1,1 @@
-# /d/CV/object detection-project
+# This is general template for projects
