@@ -1,2 +1,1 @@
-# general_project_template
-project-template
+# /d/CV/object detection-project
